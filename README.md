@@ -18,7 +18,7 @@ This project demonstrates the fundamentals of React such as **components, props,
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js (Vite or CRA, depending on your setup)  
+- **Frontend:** React.js (CRA)  
 - **Styling:** CSS  
 - **Version Control:** Git & GitHub  
 - **Deployment:** GitHub Pages (or Vercel/Netlify)
